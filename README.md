@@ -1,6 +1,6 @@
 # Programming an ESP-12F (ESP8266) with an ESP32 WROOM
 
-This is my attemp at programming an ESP-12F using ESP32 model (Cause I'm too lazy to buy anything else... and I don't have spare money. *~~So shut up and cry more.~~*
+This is my attemp at programming an ESP-12F using ESP32 model without usb-serial *(Cause I'm too lazy to buy anything else... and I don't have spare money.)*
 
 I'm not a professional, so any contribution is wellcome.
 
